@@ -1,14 +1,14 @@
 //
-//  ViewController.swift
+//  SingUpViewController.swift
 //  notreApplication
 //
-//  Created by sen aafraa on 05/07/2017.
+//  Created by sen aafraa on 02/07/2017.
 //  Copyright © 2017 sen aafraa. All rights reserved.
 //
 
 import UIKit
 
-class ViewController: UIViewController {
+class SingUpViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()

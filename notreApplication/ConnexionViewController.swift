@@ -1,14 +1,14 @@
 //
-//  ViewController.swift
-//  notreApplication
+//  ConnexionViewController.swift
+//  
 //
-//  Created by sen aafraa on 05/07/2017.
-//  Copyright © 2017 sen aafraa. All rights reserved.
+//  Created by sen aafraa on 02/07/2017.
+//
 //
 
 import UIKit
 
-class ViewController: UIViewController {
+class ConnexionViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
